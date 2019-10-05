@@ -1,0 +1,11 @@
+App_Index,Job_Type,Application_Date,Status,Interview_Scheduled,Resume_check,Background_check,Manager_Interview_Scheduled,Technical_Interview,HR_Interview,Offer_or_Reject,Email,Last_Updated
+1,sells,12/11/2018,pending,no,no,no,no,no,no,,123@gmail.com,12/31/2018
+2,finance,1/5/2018,closed,yes,yes,no,yes,yes,yes,reject,234@gmail.com,12/31/2018
+3,administration,8/8/2018,closed,,yes,,yes,yes,yes,offer,567@gmail.com,12/31/2018
+4,assistant,11/7/2018,closed,yes,yes,,yes,yes,yes,offer,789@gmail.com,12/31/2018
+5,driver,7/8/2018,closed,yes,yes,yes,yes,yes,yes,offer,abc@gmail.com,12/31/2018
+6,manager,6/12/2018,closed,yes,yes,yes,yes,yes,yes,reject,def@gmail.com,12/31/2018
+7,sells,2/2/2018,closed,yes,yes,yes,yes,yes,yes,offer,ghi@gmail.com,12/31/2018
+8,sells,9/15/2018,closed,,yes,yes,yes,yes,yes,reject,jkl@gmail.com,12/31/2018
+9,sells,9/17/2018,closed,,yes,yes,,yes,yes,offer,mno@gmail.com,12/31/2018
+10,sells,12/30/2018,pending,no,yes,no,no,no,,,pqr@gmail.com,12/31/2018

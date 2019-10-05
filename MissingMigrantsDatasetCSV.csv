@@ -1,0 +1,100 @@
+id,cause_of_death,region_origin,affected_nationality,missing,dead,incident_region,date,source,reliability,lat,Ion
+1,Presumed drowning,Middle East,Iraq,1,1,Mediterranean,5/11/2015,IOM Greece,Verified,36.8915,27.2877
+3,Fell from train,Central America & Mexico,Honduras,,1,Central America incl. Mexico,3/11/2015,La Jornada,Partially Verified,15.9564,-93.6631
+4,Presumed drowning,Middle East,,,1,Mediterranean,3/11/2015,Hellenic Coast Guard,Verified,36.50438994,27.36325278
+6,Drowning,MENA,,6,4,Mediterranean,1/11/2015,Reuters,Partially Verified,37.2856,27.0866
+7,Vehicle accident,South East Asia,Cambodia,,4,Southeast Asia,1/11/2015,Phnom Penh Post,Partially Verified,13.3611,100.985
+8,Drowning,MENA,,,11,Mediterranean,1/11/2015,Hellenic Coast Guard,Verified,37.75181406,26.96029054
+9,Drowning,MENA,,,1,Mediterranean,1/11/2015,Hellenic Coast Guard,Verified,38.35754036,26.45215693
+10,Drowning,MENA,,,1,Mediterranean,1/11/2015,Hellenic Coast Guard,Verified,39.27619474,26.38344341
+11,Drowning,,,0,3,Mediterranean,28/10/2015,AP,Partially Verified,37.4578,26.9721
+12,Died of unknown cause in hospital shortly after rescue,MENA,Syria,,1,Mediterranean,28/10/2015,IOM Greece,Verified,39.37081581,26.17647329
+13,Drowning,MENA,Iran,,1,Mediterranean,26/10/2015,IOM Greece,Verified,39.28097838,26.38413005
+14,Presumed drowning,South Asia,Afghanistan,7,3,Mediterranean,23/10/2015,IOM Greece,Verified,39.27300546,26.42326885
+15,Presumed drowning,Middle East/ South Asia,,,1,Mediterranean,1/11/2015,Hellenic Coast Guard,Verified,39.27406857,26.38618999
+16,Drowning,,Afghanistan,,4,Mediterranean,31/10/2015,Hurriyet Daily News,Partially Verified,39.27991538,26.38893657
+17,Exposure. Died upon entry to refugee camp.,South Asia,Afghan,,1,Europe,31/10/2015,AP,Partially Verified,45.2604,19.1706
+18,Drowning,,,,1,Mediterranean,30/10/2015,AP,Partially Verified,39.27406857,26.38824993
+19,Drowning,Sub-Saharan Africa,Likely Comorian,,8,Sub-Saharan Africa,30/10/2015,LINFO,Partially Verified,-11.8028,43.8519
+20,Drowning,Middle East/ South Asia,,,1,Mediterranean,30/10/2015,Hellenic Coast Guard,Verified,37.4578,26.9721
+21,Drowning,,,32,7,Mediterranean,29/10/2015,Reuters España,Verified,35.2446,-3.93175
+22,Drowning,Middle East/ South Asia,,4,3,Mediterranean,29/10/2015,AP,Partially Verified,36.435,28.2175
+23,Drowning,Middle East/ South Asia,,2,,Mediterranean,29/10/2015,AP,Partially Verified,37.7548,26.9778
+24,,,,,8,Mediterranean,20/10/2015,IOM Rome,Verified,40.33471832,17.16460254
+25,Drowning,,,,1,Mediterranean,2/10/2015,IOM Greece,Verified,36.9523,26.9808
+28,Drowning,Middle East/ South Asia,,,4,Mediterranean,29/10/2015,Hurriyet Daily News,Partially Verified,39.47014208,26.59265342
+29,Drowning,Middle East/ South Asia,,,2,Mediterranean,28/10/2015,AP,Verified,39.26981603,26.39030986
+30,Drowning,Middle East/ South Asia,,1,3,Mediterranean,28/10/2015,Associated Press and Hellenic Coast Guard,Verified,37.7548,26.9778
+31,Drowning,,Afghanistan,,3,Mediterranean,28/10/2015,Reuters and Al Jazeera,Partially Verified,39.27460011,26.3923698
+32,Presumed drowning,Middle East/ South Asia,,,19,Mediterranean,28/10/2015,AP,Partially Verified,36.9523,26.9808
+33,Presumed drowning,Middle East/ South Asia,,,1,Mediterranean,1/10/2015,Hellenic Coast Guard,Verified,36.9523,26.9808
+34,Drowning,,Afghanistan,,1,Mediterranean,28/10/2015,Hellenic Coast Guard,Verified,39.2772578,26.40953594
+35,Died of unknown cause in hospital shortly after rescue,Middle East/ South Asia,,,1,Mediterranean,28/10/2015,Hellenic Coast Guard,Verified,37.7548,26.9778
+36,Drowning,,,13,43,Mediterranean,28/10/2015,IOM Greece and Hellenic Coast Guard,Verified,39.4277,26.3885
+37,Drowning,,,1,1,Mediterranean,27/10/2015,Haberleber,Partially Verified,38.3243,26.28878044
+38,Drowning,MENA,Syrian,,1,Mediterranean,26/10/2015,IOM Greece and AP,Verified,38.37315331,26.46039668
+39,Suffocation,,,,52,Mediterranean,26/08/2015,IOM Rome,Partially Verified,34.3434,15.1172
+42,,,Nigerian,,1,Mediterranean,23/08/2015,IOM Tunisia,Verified,34.8657,12.6049
+43,Drowning,Sub-Saharan Africa,Guinean,,1,Mediterranean,26/10/2015,AFP,Partially Verified,35.88383695,-5.31757345
+45,Drowning,,,,43,Mediterranean,25/10/2015,Disaster Alert Network,Verified,32.5051,14.5102
+46,Presumed drowning,Middle East/ South Asia,,1,4,Mediterranean,21/10/2015,WWNT Radio,Partially Verified,39.27406857,26.38001018
+47,Drowning,Middle East/ South Asia,,1,2,Mediterranean,22/10/2015,Hurriyet Daily News,Partially Verified,39.3192,26.60176279
+48,Drowning,,,,6,Mediterranean,22/10/2015,Huffington Post,Partially Verified,32.75,13.7167
+49,Drowning,MENA,,11,12,Mediterranean,22/10/2015,Hurriyet Daily News,Verified,39.41074434,26.58690625
+50,Drowning,Sub-Saharan Africa,Senegal,1,1,Mediterranean,21/10/2015,Desalambre,Partially Verified,35.8894,-5.32135
+53,,South East Asia,,,24,Southeast Asia,23/08/2015,"BBC, UNHCR",Verified,6.44491,100.205
+56,Drowning,MENA,Syrian,1,4,Mediterranean,19/10/2015,IOM Greece,Verified,36.1495,29.5934
+57,,Middle East/ South Asia,,,1,Mediterranean,18/10/2015,Hellenic Coast Guard via IOM Greece,Verified,37.2954,27.1127
+59,Drowning,Middle East,Iraqi,3,4,Mediterranean,17/10/2015,Hellenic Coast Guard via IOM Greece,Verified,36.9523,26.9808
+61,Drowning,MENA,"Afghanistan, Syria",,13,Mediterranean,16/10/2015,Turkish Coast Guard via IOM Turkey,Partially Verified,39.4162,26.4074
+62,Presumed drowning,Middle East/ South Asia,,1,7,Mediterranean,15/10/2015,IOM Greece,Verified,39.2889504,26.38824993
+63,Hit by vehicle,MENA,Syrian,,1,Europe,15/10/2015,AFP,Partially Verified,50.9342,1.78665
+64,Hit by train,,,,1,Europe,15/10/2015,Reuters,Partially Verified,50.9364,1.79995
+65,Shot,MENA,Afghanistan,,1,Europe,15/10/2015,BBC,Partially Verified,42.3452,27.1813
+66,Drowning,,Syria,,3,Mediterranean,14/10/2015,Reuters,Partially Verified,39.2772578,26.38550335
+67,Presumed drowning,,,,1,Mediterranean,5/10/2015,IOM Greece,Verified,36.8893,27.1828
+68,Shot,Central America & Mexico,,,1,Central America incl. Mexico,5/10/2015,Agenda Tlaxcala,Partially Verified,19.408,-98.052
+69,Presumed drowning,Middle East,Iraq,,2,Mediterranean,3/10/2015,IOM Greece,Verified,36.8915,27.2877
+70,Drowning,Middle East,Lebanese,2,7,Mediterranean,14/10/2015,AP,Partially Verified,37.77941392,26.35340986
+71,Vehicle accident,Horn of Africa,Ethiopia,,8,Horn of Africa,12/10/2015,Horseed Media,Partially Verified,9.5116,49.0868
+72,Drowning,MENA,"Syrian, Egyptian, other African",,11,Mediterranean,10/10/2015,IOM and Daily Star,Verified,31.5548,31.0911
+73,Drowning,MENA,Syria,,1,Mediterranean,9/10/2015,IOM Athens and Reuters,Verified,39.2841673,26.38550335
+74,Drowning,Sub-Saharan Africa,"Cameroon, Guinea",,2,Mediterranean,9/10/2015,StateWatch.org,Verified,35.9402,-5.4451
+75,Vehicle accident,Caribbean,Haitian,,3,Caribbean,8/10/2015,Yahoo! News,Partially Verified,18.6046,-70.1862
+76,Vehicle accident,,,,1,Europe,5/10/2015,Independent.mk,Unverified,42.3092,21.6499
+77,Presumed drowning,,,,2,Mediterranean,4/10/2015,"Reuters, SBS",Verified,36.8915,27.2877
+78,Drowning,,,,95,Mediterranean,1/10/2015,Times of Israel,Partially Verified,32.7873,12.7826
+79,Hit by train,Horn of Africa,Eritrea,,1,Europe,30/09/2015,CNN,Partially Verified,50.9171,1.79277
+82,drowning,South Asia,Afghan,,2,Mediterranean,30/09/2015,IOM Greece,Verified,39.3346,26.4755
+83,,South America,Ecuadorian,,3,Central America incl. Mexico,30/09/2015,El Universo,Partially Verified,19.1738,-96.1342
+85,Hi by truck,Middle East/ South Asia,Iraqi,,1,Europe,29/09/2015,BBC,Partially Verified,50.9513,1.85869
+86,Drowning,MENA,Syria,5,1,Mediterranean,29/09/2015,Hurriyet Daily News,Partially verified,40.6765414,25.94885313
+87,Crushed to death,Middle East/ South Asia,Iraqi,,1,Europe,29/09/2015,BBC,Partially Verified,50.9513,1.85869
+89,Drowning,MENA,"Mostly from Syria, possibly some from Iraq",,17,Mediterranean,27/09/2015,Hurriyet Daily News,Partially Verified,37.01356685,27.1819604
+91,Presumed drowning,Middle East/ South Asia,,,1,Mediterranean,24/09/2015,Hellenic Coast Guard via IOM Greece,Verified,37.4667,26.9667
+92,Hit by train,Horn of Africa,Likely Eritrea,,1,Europe,24/09/2015,BBC,Partially Verified,50.9232,1.78285
+94,Presumed drowning,Middle East/ South Asia,,,1,Mediterranean,23/09/2015,IOM Greece,Verified,39.3671,26.1751
+95,Presumed drowning,Middle East/ South Asia,,,1,Mediterranean,22/09/2015,IOM Greece/AFP,Partially Verified,39.3824,26.4864
+97,Drowning,Middle East,Syrian Kurds,24,2,Mediterranean,20/09/2015,IOM Greece,Verified,39.4196,26.4507
+98,Drowning,Middle East/ South Asia,,2,,Mediterranean,20/09/2015,Coast Guard Command,Verified,39.2357,26.665
+100,Drowning. Boat collided with ferry,Middle East/ South Asia,,13,13,Mediterranean,20/09/2015,IOM/Coast Guard Command/Indian Express,Partially Verified,39.44556183,26.04287441
+101,Fell from train,Central America & Mexico,,,1,Central America incl. Mexico,20/09/2015,Red-accion,Partially Verified,19.7098,-98.9715
+102,Drowning,Middle East,Syria,,13,Mediterranean,19/09/2015,IOM Greece,Verified,39.3877,26.4315
+103,Drowning,MENA,Syrian,,1,Mediterranean,18/09/2015,Anadolu Agency,Partially Verified,38.32860933,26.29358696
+104,Electrocution,Middle East/ South Asia,Syria,,1,Europe,18/09/2015,BBC,Partially Verified,50.9515,1.8457
+105,,Sub-Saharan Africa,Nigerian,,1,Mediterranean,17/09/2015,Migrant Offshore Aid Station (MOAS),Verified,33.7243,14.436
+106,Drowning,Middle East,"Reported as unspecified nationals of Syria, Afghanistan, Iraq, Iran",,22,Mediterranean,15/09/2015,RTE News and Turkish Coast Guard,Verified,36.7191,27.3388
+107,Drowning,MENA,Syrian,,2,Mediterranean,14/09/2015,Hurriyet Daily News,Partially Verified,38.00701904,27.10185693
+108,Drowning,MENA,Syria,,1,Mediterranean,5/9/2015,IOM Greece,Verified,37.5005,27.0791
+109,Hit by vehicle,Horn of Africa,Eritrea,,1,Europe,24/07/2015,The Express,Partially Verified,50.1487,1.88965
+111,Presumed drowning,,,,10,Mediterranean,2/5/2015,BBC/CBC,Partially Verified,35.4607,14.4141
+112,,South East Asia,Rohingya,,36,Southeast Asia,1/5/2015,Arakan Project,Verified,7.18977,100.595
+113,"Unknown, torture involved",South East Asia,Myanmar,,106,Southeast Asia,25/05/2015,BBC,Partially Verified,6.44491,100.5785352
+114,Train accident,MENA,Afghanistan,,1,Europe,24/04/2015,Radio Free Europe,Partially Verified,41.5579,21.8188
+119,Drowning,Central America & Mexico,,,1,U.S./Mexico Border,21/04/2015,Televisa,Partially Verified,27.49541266,-99.52264916
+120,Drowning,,"Eritrea (2), Syria (1)",,3,Mediterranean,20/04/2015,Reuters,Partially Verified,36.35278241,27.93825898
+121,"Drowning, Asphyxiation",,"Syria, Somalia, Gambia, Ivory Coast, Mali, Tunisia, Sierra Leone, Bangladesh, Algeria, Egypt, Niger, Zambia, Ghana",,750,Mediterranean,18/04/2015,IOM Italy,Verified,35.03,14.6777
+122,Burns from cooking gas explosion in connection house in Libya,Sub-Saharan Africa,Eritrea or Somalia,,1,Mediterranean,17/04/2015,UNHCR,Verified,35.1738,17.2266
+123,Drowning,Sub-Saharan Africa,"Survivors from Nigeria, Ghana, Niger",,41,Mediterranean,16/04/2015,BBC and CBC,Partially Verified,35.7465,14.4141
+124,Drowning after being thrown overboard by other passengers,Sub-Saharan Africa,"Ghana, Nigeria",12,,Mediterranean,16/04/2015,BBC and CBC,Partially Verified,34.8859,14.4141
+125,Drowning,,,391,9,Mediterranean,13/04/2015,Guardian,Partially Verified,36.1734,17.57260684
